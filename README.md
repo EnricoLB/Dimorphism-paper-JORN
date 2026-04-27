@@ -1,4 +1,6 @@
-# Dimorphism-paper-JORN
+# Traditional bioacoustic analyses and machine-learning methods indicate weak vocal dimorphism in four Cerrado antbird species
+## _Paper in review at the Journal of Ornithology_
+### _This code has tje purpose to make analysis rerunable_
 
 This repository contains all code and scripts used to reproduce the analyses presented in the manuscript on acoustic and morphological sexual dimorphism in birds.
 
