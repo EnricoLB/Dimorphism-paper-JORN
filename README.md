@@ -17,12 +17,12 @@ Dimorphism-paper-JORN/
 │
 ├── data/
 │   ├── raven_exports/        # Raven Pro exported acoustic measurements
-│   └── metadata/             # Species, sex, and recording metadata
+│   └── metadata/             
 │
 ├── scripts/
 │   ├── python/
 │   │   ├── classification/
-│   │   │   ├── run_classifiers.py
+│   │   │   ├── classify.py
 │   │   │   └── classification_and_graphs.py
 │   │   └── mfcc/
 │   │       └── extract_mfcc.py
