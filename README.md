@@ -145,6 +145,7 @@ pip install -r environment/requirements.txt
 * Analyses use fixed random seeds where applicable
 * Classification uses **group-aware splits** to avoid data leakage across individuals
 * Dummy classifiers are included as baselines for comparison
+* **Audio data is available upon request**
 
 ---
 
